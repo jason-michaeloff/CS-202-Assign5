@@ -21,4 +21,4 @@ Overall, we were mostly wrong with our hypothesis of inserting markers into sour
 Placeholder text.
 
 # Summary 150 words
-Placeholder text.
+Coverage.py has descriptive naming, thorough comments, and functions that are easy to understand without extra docs. Functionality is split into many files and modules. Type hints are used extensively, as in our CSC202 class. Also similar to our class, the functions have purpose statements (just under the headers). If I had to maintain this code, the onboarding cost would be relatively smooth thanks to its self-documenting style. My code, on the other hand (aside from the code for this class) is typically much less consistent on type hints and comments. For instance, sqldata.py's CoverageData class contains 80 lines of documentation comments right at the top. Would I do this to my own code? Probably not, though I see the value of it for a polished and easy to understand program. The CONTRIBBUTORS.txt file lists hundreds of names, so this project had to be good for collaborating.
